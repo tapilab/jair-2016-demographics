@@ -1,0 +1,6 @@
+matplotlib==1.5.0
+numpy==1.10.1
+scikit-learn==0.17
+scipy==0.16.1
+tabulate==0.7.5
+-e git+https://github.com/tapilab/twutil.git@0c68ab97354628315cefd067ab039da6a42117e3#egg=twutil-master
